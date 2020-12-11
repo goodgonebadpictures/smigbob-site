@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nerko+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap" rel="stylesheet">
+
+<style>
+.red-text {
+color: red;
+}
+.nerko {
+font-family: "Nerko One";
+}
+.thin-red-border
+{
+border-color: red;
+border-width: 5px;
+border-style: solid;
+border-radius: 5px;
+}
+.round-image {
+border-radius: 50%;
+}
+#body {
+background-color: orange;
+font-family: 'East Sea Dokdo', cursive;
+font-size: 24px;
+}
+</style>
+
+<main>
+<h1 class="nerko">Smigbob</h1>
+</main>
+
+<div id="body">
+
+<h2 class="red-text">Fuck, I dunno dude. I'm still learning this shit.</h2>
+
+<a href="https://www.youtube.com/channel/UCB-7Ylk476WKMlxcdL5bMbg/featured"><img src="https://yt3.ggpht.com/ytc/AAUvwnhxT-jm2iiurTwt1X42u87UrZonLGV1fWNU2Adt=s88-c-k-c0x00ffffff-no-rj" class="thin-red-border round-image"></a>
+
+<form action="#">
+
+<input type="text" placeholder="Type some shit, I dunno" required>
+
+<label for="booba">
+<input id="booba" type="radio" name="booba-swordman" value="booba">Booba
+</label>
+
+<label for="swordman">
+<input id="swordman" type="radio" name="booba-swordman" value="swordman">Swordman
+<label>
+
+<label for="thot">
+<input id="thot" type="checkbox" name="persona" value="thot">Thot
+</label>
+
+<label for="simp">
+<input id="simp" type="checkbox" name="persona" value="simp">Simp
+</label>
+
+<label for="chad">
+<input id="chad" type="checkbox" name="persona" value="chad">Chad
+</label>
+
+<button type="submit">Submit that Shit</button>
+
+</form>
+
+<p>Reasons to Give a Fuck About my Website</p>
+<ol>
+<li>I'm cool.</li>
+<li>You have nothing better to do.</li>
+<li>This gag is running out of steam.</li>
+</div>
+</html>
